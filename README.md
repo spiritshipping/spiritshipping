@@ -26,7 +26,7 @@
 
 
 
-| [![fluffle](https://file.garden/ahGY17jemicv1Owd/Untitled256_20261108202122.png?v=1794166403525)](https://rentry.co/ungodly)   | [![atabook](https://file.garden/ahGY17jemicv1Owd/Untitled256_20261108202100.png?v=1794166477457)](https://juhaou.atabook.org/)  |
+| [![fluffle](https://file.garden/ahGY17jemicv1Owd/Untitled256_20261108202122.png?v=1794166403525)](https://fluffle.cc/ungodly)   | [![atabook](https://file.garden/ahGY17jemicv1Owd/Untitled256_20261108202100.png?v=1794166477457)](https://juhaou.atabook.org/)  |
 | ------------- | ------------- |
 
 
