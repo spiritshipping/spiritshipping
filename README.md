@@ -1,5 +1,15 @@
 
 
- | <p align="center">  <img src="https://file.garden/ahGY17jemicv1Owd/Untitled254_20261108173206.png?v=1794155686311" alt="Sample Image" width="400"/>  </p> |  Second Header |
-| ------------- | ------------- |
-| TEXT TEXT TEXT TEXT TEXTTEXT TEXT TEXT TEXT TEXTTEXT TEXT TEXT TEXT TEXT  |
+ | <p align="center">  <img src="https://file.garden/ahGY17jemicv1Owd/Untitled255_20261108192935.png?v=1794162800729" alt="Sample Image" width="400"/>  </p> |  
+| ------------- | 
+| |
+
+<table width="100%">
+<tr>
+<td width="55%" valign="middle" align="center">
+
+ <img src="https://file.garden/ahGY17jemicv1Owd/Untitled255_20261108192935.png?v=1794162800729" alt="Sample Image" width="400"/>
+
+
+</tr>
+</table>
