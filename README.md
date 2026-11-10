@@ -1,4 +1,4 @@
-<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
+
 
 <div align="center">  <table width="100%">
 <tr>
@@ -30,6 +30,4 @@
 | ------------- | ------------- |
 
 
-
- <sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
 
